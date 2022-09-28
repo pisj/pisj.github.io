@@ -18,8 +18,8 @@ email: "pi.sj.sab@gmail.com"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "minima"
-
+#theme: "minima"
+theme: "no-style-please"
 rss: rss
 
 kramdown:
